@@ -1,0 +1,3 @@
+[submodule "ProyectoTelematica"]
+	path = ProyectoTelematica
+	url = git@github.com:luisced/ProyectoTelematica.git
